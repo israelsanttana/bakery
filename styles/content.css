@@ -22,3 +22,29 @@
 section {
   padding-left: 50px;
 }
+
+#section-welcome {
+  padding-left: 0;
+}
+
+.section-welcome-content {
+  padding-left: 50px;
+}
+.banner {
+  height: 500px;
+  background-image: url(/assets/img/main-banner.png);
+  background-position: center;
+  background-size: cover;
+}
+.banner h2 {
+  font-size: 78px;
+  text-align: center;
+  padding-top: 212px;
+  font-family: Satisfy;
+  color: var(--primary-color);
+  text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+#section-welcome h1 {
+  margin-top: 70px;
+}
