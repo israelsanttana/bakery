@@ -1,0 +1,24 @@
+.content {
+  position: absolute;
+  left: 300px;
+  width: calc(100% - 300px);
+}
+
+.content h1,
+.content h2 {
+  font-family: Roboto;
+  color: var(--quatrain-color);
+  margin-bottom: 30px;
+}
+
+.content h1 {
+  font-size: 40px;
+}
+
+.content h2 {
+  font-size: 35px;
+}
+
+section {
+  padding-left: 50px;
+}
